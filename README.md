@@ -10,3 +10,6 @@ I am interested in coding, artificial intelligence, and learning new technologie
 ## Goal
 
 My goal is to become a skilled software developer and build useful projects using my programming and problem-solving skills.
+## Projects
+
+I am worked on a Smart Door Lock System using ESP32, RFID, keypad, and other components. I plan to build more software and hardware projects as I improve my technical skills.
