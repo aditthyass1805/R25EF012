@@ -4,3 +4,6 @@ My name is Aditthya SS, and I am a Computer Science and Engineering student at R
 ## Skills
 
 I have basic knowledge of C programming & Java programming and am currently improving my problem-solving and data structures skills.
+## Interests
+
+I am interested in coding, artificial intelligence, and learning new technologies.
