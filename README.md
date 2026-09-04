@@ -7,3 +7,6 @@ I have basic knowledge of C programming & Java programming and am currently impr
 ## Interests
 
 I am interested in coding, artificial intelligence, and learning new technologies.
+## Goal
+
+My goal is to become a skilled software developer and build useful projects using my programming and problem-solving skills.
